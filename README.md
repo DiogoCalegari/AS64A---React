@@ -215,24 +215,6 @@ mantendo uma evolução contínua da aplicação.
 
 ------------------------------------------------------------------------
 
-## 🤖 Uso de Inteligência Artificial
-
-Ferramentas de Inteligência Artificial poderão ser utilizadas como apoio
-ao desenvolvimento, desde que seu uso seja **documentado** pela equipe.
-
-Quando utilizada, a equipe deverá registrar:
-
--   ferramenta utilizada;
--   finalidade do uso;
--   parte do projeto em que foi utilizada;
--   alterações realizadas pelos integrantes;
--   validação e compreensão do código gerado.
-
-A IA será utilizada como ferramenta de apoio, não substituindo a
-compreensão dos integrantes sobre o código desenvolvido.
-
-------------------------------------------------------------------------
-
 ## 📚 Requisitos da disciplina
 
 O projeto atende às orientações propostas para o **Projeto 1 ---
