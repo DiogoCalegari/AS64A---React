@@ -15,7 +15,7 @@ entre páginas.
 
   Integrante                          RA
   ---------------------------- ---------
-  Diogo Calegari dos Reis        2766973
+  Diogo Calegari dos Reis        2766973 <br>
   João Antonio Carboni Gomes     2767058
 
 ------------------------------------------------------------------------
