@@ -269,6 +269,43 @@ Período de desenvolvimento: **setembro/outubro de 2026**
 
 ------------------------------------------------------------------------
 
+## 🤖 Utilização de Inteligência Artificial
+
+Durante o desenvolvimento do projeto, ferramentas de Inteligência Artificial poderão ser utilizadas como **apoio ao processo de desenvolvimento**.
+
+Todo uso relevante de IA será registrado nesta seção, permitindo documentar como as ferramentas foram utilizadas, por quem e em qual parte do projeto.
+
+A utilização de IA não substitui a responsabilidade dos integrantes sobre o código desenvolvido. Todo código, sugestão ou conteúdo gerado deverá ser analisado, testado e compreendido pela equipe antes de ser incorporado ao projeto.
+
+### 📋 Registro de utilização
+
+| Data | Integrante | Ferramenta | Finalidade | Utilização |
+|---|---|---|---|---|
+| --/--/2026 | -- | -- | -- | -- |
+
+### 📝 Como registrar
+
+A cada utilização relevante de IA, registrar:
+
+- **Data:** quando a ferramenta foi utilizada;
+- **Integrante:** quem utilizou a ferramenta;
+- **Ferramenta:** ChatGPT, GitHub Copilot, Gemini, Claude, entre outras;
+- **Finalidade:** qual era o objetivo da utilização;
+- **Utilização:** explicar brevemente o que foi solicitado e como o resultado foi aproveitado no projeto.
+
+### 💡 Exemplos
+
+| Data | Integrante | Ferramenta | Finalidade | Utilização |
+|---|---|---|---|---|
+| 17/09/2026 | João Antonio | xx | xx| xx |
+| 18/09/2026 | Diogo | xx | xx | xx |
+
+### ⚠️ Responsabilidade sobre o código
+
+A equipe é responsável por compreender e validar todo código incorporado ao projeto, independentemente de ter sido produzido manualmente ou com auxílio de ferramentas de Inteligência Artificial.
+
+O uso de IA será documentado de forma transparente durante o desenvolvimento.
+
 ## 📄 Licença
 
 Projeto acadêmico desenvolvido para fins educacionais no contexto da
